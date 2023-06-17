@@ -1,2 +1,2 @@
-# mygitwork
+# mygitwork - first working 
 workingdir
